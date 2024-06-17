@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-15T07:13:15 IST" name="Default suite" finished-at="2024-06-15T07:14:19 IST" duration-ms="64052">
+    <groups>
+    </groups>
+    <test started-at="2024-06-15T07:13:15 IST" name="Default test" finished-at="2024-06-15T07:14:19 IST" duration-ms="64052">
+      <class name="Sel.OrangeTDD.OrangeLoginTest">
+        <test-method is-config="true" signature="OpenUrl()[pri:0, instance:Sel.OrangeTDD.OrangeLoginTest@5b367418]" started-at="2024-06-15T07:13:15 IST" name="OpenUrl" finished-at="2024-06-15T07:13:21 IST" duration-ms="5247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenUrl -->
+        <test-method signature="Login_test1(java.lang.String,java.lang.String)[pri:0, instance:Sel.OrangeTDD.OrangeLoginTest@5b367418]" started-at="2024-06-15T07:13:21 IST" name="Login_test1" data-provider="d1" finished-at="2024-06-15T07:13:22 IST" duration-ms="826" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_test1 -->
+        <test-method is-config="true" signature="closebwoser()[pri:0, instance:Sel.OrangeTDD.OrangeLoginTest@5b367418]" started-at="2024-06-15T07:13:22 IST" name="closebwoser" finished-at="2024-06-15T07:13:22 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebwoser -->
+        <test-method is-config="true" signature="OpenUrl()[pri:0, instance:Sel.OrangeTDD.OrangeLoginTest@5b367418]" started-at="2024-06-15T07:13:22 IST" name="OpenUrl" finished-at="2024-06-15T07:13:26 IST" duration-ms="3931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenUrl -->
+        <test-method signature="Login_test1(java.lang.String,java.lang.String)[pri:0, instance:Sel.OrangeTDD.OrangeLoginTest@5b367418]" started-at="2024-06-15T07:13:26 IST" name="Login_test1" data-provider="d1" finished-at="2024-06-15T07:13:28 IST" duration-ms="2113" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Wrong]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Wrong1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_test1 -->
+        <test-method is-config="true" signature="closebwoser()[pri:0, instance:Sel.OrangeTDD.OrangeLoginTest@5b367418]" started-at="2024-06-15T07:13:28 IST" name="closebwoser" finished-at="2024-06-15T07:13:28 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebwoser -->
+        <test-method is-config="true" signature="OpenUrl()[pri:0, instance:Sel.OrangeTDD.OrangeLoginTest@5b367418]" started-at="2024-06-15T07:13:28 IST" name="OpenUrl" finished-at="2024-06-15T07:13:32 IST" duration-ms="4314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenUrl -->
+        <test-method signature="Logout_test3()[pri:0, instance:Sel.OrangeTDD.OrangeLoginTest@5b367418]" started-at="2024-06-15T07:13:32 IST" name="Logout_test3" finished-at="2024-06-15T07:13:54 IST" duration-ms="21767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout_test3 -->
+        <test-method is-config="true" signature="closebwoser()[pri:0, instance:Sel.OrangeTDD.OrangeLoginTest@5b367418]" started-at="2024-06-15T07:13:54 IST" name="closebwoser" finished-at="2024-06-15T07:13:54 IST" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebwoser -->
+        <test-method is-config="true" signature="OpenUrl()[pri:0, instance:Sel.OrangeTDD.OrangeLoginTest@5b367418]" started-at="2024-06-15T07:13:54 IST" name="OpenUrl" finished-at="2024-06-15T07:13:58 IST" duration-ms="3672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenUrl -->
+        <test-method signature="operation_test()[pri:0, instance:Sel.OrangeTDD.OrangeLoginTest@5b367418]" started-at="2024-06-15T07:13:58 IST" name="operation_test" finished-at="2024-06-15T07:14:19 IST" duration-ms="21164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operation_test -->
+        <test-method is-config="true" signature="closebwoser()[pri:0, instance:Sel.OrangeTDD.OrangeLoginTest@5b367418]" started-at="2024-06-15T07:14:19 IST" name="closebwoser" finished-at="2024-06-15T07:14:19 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebwoser -->
+      </class> <!-- Sel.OrangeTDD.OrangeLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
